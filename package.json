@@ -1,0 +1,14 @@
+{
+    "name": "hexo-tag-nomnoml",
+    "version": "0.0.1",
+    "main": "index",
+    "license": "MIT",
+    "author": {
+        "email": "business@tnickel.de",
+        "name": "tnickel.de",
+        "url": "http://tnickeld.de/"
+    },
+    "dependencies": {
+        "nomnoml": "^0.3.0"
+    }
+}
